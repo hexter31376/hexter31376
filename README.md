@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 
 ## 💻 contect
 <a href = "https://github.com/hexter31376"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> <!--github profile tag-->
-<img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung33%40gmail.com-white?style=for-the-badge&logo=Gmail">
-<img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung%40gwnu.ac.kr-skyblue?style=for-the-badge&logo=Minutemailer&logoColor=white">
-
-
+<a href = "https://velog.io/@hexter31376/posts"><img alt="Static Badge" src="https://img.shields.io/badge/velog-green?style=for-the-badge&logo=Velog&logoColor=white"></a> <!--velog profile tag-->
+<img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung33%40gmail.com-white?style=for-the-badge&logo=Gmail"> <!--gmail tag-->
+<img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung%40gwnu.ac.kr-skyblue?style=for-the-badge&logo=Minutemailer&logoColor=white"> <!--gwnu mail tag-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexter31376&layout=compact) <!--language ratio-->

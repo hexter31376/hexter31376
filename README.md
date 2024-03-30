@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align : center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=200&width=100%&section=header&text=Teamplays%20GitHub&fontSize=80&animation=blink&fontColor=ffffff" />   
+<img src="https://capsule-render.vercel.app/api?type=Rect&color=50bcdf&height=200&width=100%&section=header&text=Teamplays%20GitHub&fontSize=80&fontColor=ffffff" />   
 </div>    
 
 # Teamplay (Wonyoung Jang)

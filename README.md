@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align : center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=50bcdf&height=200&width=100%&section=header&text=Teamplays%20GitHub&fontSize=80&animation=blink&fontColor=ffffff" />   
+</div>    
 
 # Teamplay (Wonyoung Jang)
 ### Hello World! 👋 </br>I'm Teamplay, Welcome to my page!

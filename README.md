@@ -27,7 +27,11 @@ Here are some ideas to get you started:
   <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <!--css3 tag-->
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <!--javascript tag-->
 
-## 💻 ...
+## 💻 contect
 <a href = "https://github.com/hexter31376"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> <!--github profile tag-->
+<img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung33%40gmail.com-white?style=for-the-badge&logo=Gmail">
+<img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung%40gwnu.ac.kr-skyblue?style=for-the-badge&logo=Minutemailer&logoColor=white">
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexter31376&layout=compact) <!--language ratio-->

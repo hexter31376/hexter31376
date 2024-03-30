@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/> <!--Android tag-->
 
 ## 💻 ...
-<a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+<a href = "https://github.com/hexter31376"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://for-it-study.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 </a> <a href = "hun-se.slack.com"> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>   
 

@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Teamplay (Wonyoung Jang)
 ### Hello World! 👋 </br>I'm Teamplay, Welcome to my page!
+<img src = "images/hellorat.gif">
 
 ## 🌱 I’m currently learning ...
 ### Algorithm Study

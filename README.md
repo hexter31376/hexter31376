@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
 ### Algorithm Study
+#### ready!
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <!--c tag-->
   <img alt="Static Badge" src="https://img.shields.io/badge/java-red?style=for-the-badge&logoColor=white"> <!--java tag-->
+#### not yet...
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <!--python tag-->   
 ### Front End Study
   <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <!--html5 tag-->

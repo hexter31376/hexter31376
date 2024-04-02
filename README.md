@@ -32,10 +32,22 @@ Here are some ideas to get you started:
   <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <!--css3 tag-->
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <!--javascript tag-->
 
+## My Tools...
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+## Most Used languages...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexter31376&layout=compact) <!--language ratio-->
+
+## My github stats...
+![teamplay's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexter31376&show_icons=true)
+
+## My BOJ...
+[![Solved.acdoremigus](http://mazassumnida.wtf/api/v2/generate_badge?boj=barcode880)](https://solved.ac/barcode880)
+
 ## 💻 contect
 <a href = "https://github.com/hexter31376"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> <!--github profile tag-->
 <a href = "https://velog.io/@hexter31376/posts"><img alt="Static Badge" src="https://img.shields.io/badge/velog-green?style=for-the-badge&logo=Velog&logoColor=white"></a> <!--velog profile tag-->
+<a href = "https://www.acmicpc.net/user/barcode880"><img alt="Static Badge" src="https://img.shields.io/badge/BAEKJOON-white?style=for-the-badge"> <!--BOJ profile-->
+<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung33%40gmail.com-white?style=for-the-badge&logo=Gmail"> <!--gmail tag-->
 <img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung%40gwnu.ac.kr-skyblue?style=for-the-badge&logo=Minutemailer&logoColor=white"> <!--gwnu mail tag-->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexter31376&layout=compact) <!--language ratio-->

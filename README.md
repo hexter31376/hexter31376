@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=Rect&color=50bcdf&height=200&width=100%&section=header&text=Teamplays%20GitHub&fontSize=80&fontColor=ffffff" />   
 </div>    
 
-# Teamplay (Wonyoung Jang)
+# ✨Teamplay✨ (Wonyoung Jang)
 ### Hello World! 👋 </br>I'm Teamplay, Welcome to my page!
 <img src = "images/hellorat.gif">
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## My BOJ...
 [![Solved.acdoremigus](http://mazassumnida.wtf/api/v2/generate_badge?boj=barcode880)](https://solved.ac/barcode880)
 
-## 💻 contect
+## 💻 social
 <a href = "https://github.com/hexter31376"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> <!--github profile tag-->
 <a href = "https://velog.io/@hexter31376/posts"><img alt="Static Badge" src="https://img.shields.io/badge/velog-green?style=for-the-badge&logo=Velog&logoColor=white"></a> <!--velog profile tag-->
 <a href = "https://www.acmicpc.net/user/barcode880"><img alt="Static Badge" src="https://img.shields.io/badge/BAEKJOON-white?style=for-the-badge"> <!--BOJ profile-->

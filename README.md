@@ -57,7 +57,3 @@ Here are some ideas to get you started:
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hexter31376)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>
-
-// 사용 옵션
-&tag : 해당 옵션을 넣으면 해당태그의 최신글을 가져온다.
-&color : dark

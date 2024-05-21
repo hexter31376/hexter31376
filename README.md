@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung%40gwnu.ac.kr-skyblue?style=for-the-badge&logo=Minutemailer&logoColor=white"> <!--gwnu mail tag-->
 
 <div align="center" style="text-align:center">
-  //  위 아래 한칸씩 꼭 비워야 함.
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=${hexter31376}&tag=${태그}&color=${dark})](${링크 url})
-  //  위 아래 한칸씩 꼭 비워야 함.
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hexter31376)](https://velog.io/@eungyeole) 
+
 </div>
 
 // 사용 옵션

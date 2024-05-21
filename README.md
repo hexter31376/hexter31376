@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <div align="center" style="text-align:center">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hexter31376)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>
 

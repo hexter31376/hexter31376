@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung%40gwnu.ac.kr-skyblue?style=for-the-badge&logo=Minutemailer&logoColor=white"> <!--gwnu mail tag-->
 
 <div align="center" style="text-align:center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hexter31376)](https://velog.io/@eungyeole) 
+
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>
 

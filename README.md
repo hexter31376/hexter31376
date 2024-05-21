@@ -51,3 +51,12 @@ Here are some ideas to get you started:
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung33%40gmail.com-white?style=for-the-badge&logo=Gmail"> <!--gmail tag-->
 <img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung%40gwnu.ac.kr-skyblue?style=for-the-badge&logo=Minutemailer&logoColor=white"> <!--gwnu mail tag-->
+<div align="center" style="text-align:center">
+  //  위 아래 한칸씩 꼭 비워야 함.
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=${teamplay}&tag=${태그}&color=${dark})](${링크 url})
+  //  위 아래 한칸씩 꼭 비워야 함.
+</div>
+
+// 사용 옵션
+&tag : 해당 옵션을 넣으면 해당태그의 최신글을 가져온다.
+&color : dark

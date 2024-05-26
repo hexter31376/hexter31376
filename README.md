@@ -52,8 +52,4 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung33%40gmail.com-white?style=for-the-badge&logo=Gmail"> <!--gmail tag-->
 <img alt="Static Badge" src="https://img.shields.io/badge/zwonyoung%40gwnu.ac.kr-skyblue?style=for-the-badge&logo=Minutemailer&logoColor=white"> <!--gwnu mail tag-->
 
-<div align="center" style="text-align:center">
-
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hexter31376)](https://github.com/eungyeole/velog-readme-stats)
-
-</div>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhexter31376%2Fhit-counter&count_bg=%233D91C8&title_bg=%23093158&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> <!--hits-->

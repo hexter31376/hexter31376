@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ## My Posts...
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hexter31376/posts)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hexter31376/C언어-함수-알아보기-qsort)](https://github.com/eungyeole/velog-readme-stats)
 
 ## Most Used languages...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexter31376&layout=compact) <!--language ratio-->
